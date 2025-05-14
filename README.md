@@ -1,2 +1,24 @@
-# MySQL_Aula_Banco_de_Dados
-Atividades feitas na matéria Banco de Dados, orientada pelo professor Nicolas Vogiantzis
+# Atividades de Banco de Dados 📚
+
+Repositório com as atividades desenvolvidas durante a disciplina de **Banco de Dados**, cursada na faculdade sob orientação do professor **Nicolas Vogiantzis**.
+
+## 📅 Semestre
+4º semestre de Analise e Desenvolvimento de Sistemas
+
+## 🧠 Conteúdos abordados
+- Modelagem de dados
+- SQL (DML, DDL, DQL)
+- Chaves primárias e estrangeiras
+- Funções agregadas
+- Cláusulas `WHERE`, `GROUP BY`, `ORDER BY`
+
+## 📁 Organização
+Os arquivos estão organizados por datas, conforme evolução da disciplina.
+
+## 💻 Tecnologias
+- MySQL
+- XAMPP
+
+---
+
+> Desenvolvido por Lucas – Atividades acadêmicas 🚀
