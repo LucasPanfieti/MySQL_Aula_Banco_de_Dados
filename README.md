@@ -1,9 +1,10 @@
-# Atividades de Banco de Dados 📚
+# Atividades de Banco de Dados 💾
 
 Repositório com as atividades desenvolvidas durante a disciplina de **Banco de Dados**, cursada na faculdade sob orientação do professor **Nicolas Vogiantzis**.
 
-## 📅 Semestre
-4º semestre
+## 📚 Máteria
+
+Banco de Dados
 
 ## 🧠 Conteúdos abordados
 - Modelagem de dados
